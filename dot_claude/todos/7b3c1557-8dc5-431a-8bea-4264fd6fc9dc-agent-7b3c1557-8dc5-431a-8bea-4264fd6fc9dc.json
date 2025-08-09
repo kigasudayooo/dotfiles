@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create feat/mor branch from main",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Examine existing scripts implementation for reference",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create tmp directory structure",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Implement multi-output regression for metal material",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Integrate optuna for hyperparameter optimization",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Integrate mlflow for experiment tracking",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

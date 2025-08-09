@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Explore notebook/comp_notebook directory to understand its contents",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze each notebook to understand what analysis is being performed",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create comprehensive markdown documentation summarizing all notebook analyses",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Save the documentation to doc directory",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Commit and push the changes",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  }
+]

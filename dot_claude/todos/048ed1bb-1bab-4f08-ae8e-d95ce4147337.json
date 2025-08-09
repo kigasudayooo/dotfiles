@@ -1,0 +1,26 @@
+[
+  {
+    "content": "現在のスクレイピングコードを確認して価格抽出の問題を特定",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "価格抽出ロジックを修正（'1億5,000万円'などの大きな金額に対応）",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "物件のリンク情報を抽出・保存する機能を追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "修正後のテストを実行して動作確認",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

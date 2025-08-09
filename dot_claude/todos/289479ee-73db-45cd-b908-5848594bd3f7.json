@@ -1,0 +1,44 @@
+[
+  {
+    "content": "全ページ取得のためのページネーション戦略設計と実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "pagination_strategy"
+  },
+  {
+    "content": "SUUMO統合スクレイパーのテスト完了とGREEN段階",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "suumo_scraper_integration"
+  },
+  {
+    "content": "実際HTTPリクエスト機能の実装",
+    "status": "pending",
+    "priority": "high",
+    "id": "http_requests_implementation"
+  },
+  {
+    "content": "全SUUMOデータ取得（8,339件）の実行",
+    "status": "pending",
+    "priority": "high",
+    "id": "full_scraping_execution"
+  },
+  {
+    "content": "データ前処理パイプライン構築",
+    "status": "pending",
+    "priority": "medium",
+    "id": "data_preprocessing"
+  },
+  {
+    "content": "機械学習パイプラインとWandb統合",
+    "status": "pending",
+    "priority": "medium",
+    "id": "ml_pipeline"
+  },
+  {
+    "content": "HOMESサイト対応とデータ統合",
+    "status": "pending",
+    "priority": "low",
+    "id": "homes_integration"
+  }
+]

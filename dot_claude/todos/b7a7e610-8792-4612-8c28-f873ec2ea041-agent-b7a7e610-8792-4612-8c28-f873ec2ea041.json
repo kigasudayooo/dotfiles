@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Implement individual book export functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement-individual-export"
+  },
+  {
+    "content": "Update book detail page export button to work",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-export-button"
+  },
+  {
+    "content": "Add export options dialog for individual books",
+    "status": "completed",
+    "priority": "medium",
+    "id": "add-export-dialog"
+  },
+  {
+    "content": "Test individual book export functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-individual-export"
+  }
+]

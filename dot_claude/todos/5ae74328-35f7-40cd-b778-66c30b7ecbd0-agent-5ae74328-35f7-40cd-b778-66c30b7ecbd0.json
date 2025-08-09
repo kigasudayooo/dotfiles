@@ -1,0 +1,56 @@
+[
+  {
+    "content": "OCR機能に必要なパッケージを追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "ocr_dependencies"
+  },
+  {
+    "content": "カメラ撮影サービス実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "camera_service"
+  },
+  {
+    "content": "OCRテキスト抽出サービス実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "ocr_service"
+  },
+  {
+    "content": "書籍タイトル抽出・解析機能実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "title_extraction"
+  },
+  {
+    "content": "PhotoOCRImportSource実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "photo_import_source"
+  },
+  {
+    "content": "カメラ撮影UI実装",
+    "status": "completed",
+    "priority": "medium",
+    "id": "camera_ui"
+  },
+  {
+    "content": "設定画面へのOCR機能統合",
+    "status": "completed",
+    "priority": "medium",
+    "id": "ocr_ui_integration"
+  },
+  {
+    "content": "CSVヘッダー名の大文字・小文字問題修正",
+    "status": "completed",
+    "priority": "high",
+    "id": "csv_header_case_fix"
+  },
+  {
+    "content": "プロジェクト直下のkindle_books.csv対応",
+    "status": "completed",
+    "priority": "medium",
+    "id": "project_csv_support"
+  }
+]

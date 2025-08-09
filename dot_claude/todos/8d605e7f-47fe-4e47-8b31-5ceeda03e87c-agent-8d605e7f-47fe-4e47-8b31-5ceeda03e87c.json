@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze jalan.net page structure with Playwright",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Extract sample data from individual hotel page",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Identify all area/region links from main page",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Test hotel list extraction from area page",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement comprehensive jalan scraper",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

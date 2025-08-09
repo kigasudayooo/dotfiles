@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Check git status and current commits",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update .gitignore to exclude images and zip files",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Remove any large files from git history if needed",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Commit the .gitignore and pyproject.toml changes",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "4"
+  }
+]

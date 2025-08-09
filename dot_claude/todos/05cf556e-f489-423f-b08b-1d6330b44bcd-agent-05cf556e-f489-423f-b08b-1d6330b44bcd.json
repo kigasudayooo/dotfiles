@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Read current .gitignore file",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add exclusions for zip files and images",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add exclusions for other downloadable file types",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

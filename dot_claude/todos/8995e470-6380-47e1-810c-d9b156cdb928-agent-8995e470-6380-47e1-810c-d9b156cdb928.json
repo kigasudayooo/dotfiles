@@ -1,0 +1,14 @@
+[
+  {
+    "content": "プロジェクト構造の分析とCLAUDE.md更新の準備",
+    "status": "completed",
+    "priority": "high",
+    "id": "analyze_project_structure"
+  },
+  {
+    "content": "BFRBセンサーデータ分析プロジェクトに特化したCLAUDE.mdの更新",
+    "status": "completed",
+    "priority": "high",
+    "id": "update_claude_md"
+  }
+]

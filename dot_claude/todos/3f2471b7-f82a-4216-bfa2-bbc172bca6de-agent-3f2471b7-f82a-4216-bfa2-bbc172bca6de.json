@@ -1,0 +1,20 @@
+[
+  {
+    "content": "書籍の適切な章順序を判断するためのルールを作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "各書籍の章構成を確認し、適切な順序でソートする関数を作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "改良されたスクリプトで書籍を再統合",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

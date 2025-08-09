@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Add flutter_markdown dependency to pubspec.yaml",
+    "status": "completed",
+    "priority": "high",
+    "id": "add-markdown-dependency"
+  },
+  {
+    "content": "Update note display pages to render markdown content",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-note-display"
+  },
+  {
+    "content": "Add markdown preview toggle to note pages",
+    "status": "completed",
+    "priority": "medium",
+    "id": "add-markdown-toggle"
+  },
+  {
+    "content": "Test markdown rendering functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-markdown-rendering"
+  }
+]

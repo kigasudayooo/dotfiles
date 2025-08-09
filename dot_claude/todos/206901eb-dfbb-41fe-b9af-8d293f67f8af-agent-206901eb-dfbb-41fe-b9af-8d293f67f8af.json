@@ -1,0 +1,20 @@
+[
+  {
+    "content": "設定画面から書籍一括インポートセクション削除",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove_bulk_import_1"
+  },
+  {
+    "content": "関連するimportサービスファイル削除",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove_bulk_import_2"
+  },
+  {
+    "content": "不要なimport文削除",
+    "status": "completed",
+    "priority": "medium",
+    "id": "remove_bulk_import_3"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "content": "ブランチ名をmasterからmainに変更",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "リモートのデフォルトブランチをmainに設定",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "content": "List HTML files in the html directory",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Read HTML files to extract original site URLs",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Access original sites with Playwright MCP to analyze structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Discuss movie information extraction format with user",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Create abstract base scraper class",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Implement theater-specific scraper classes",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Create data models for movie/theater information",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Implement main scraping orchestrator",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  }
+]

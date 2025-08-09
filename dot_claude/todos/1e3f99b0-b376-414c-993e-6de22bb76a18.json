@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Read the current full_suumo_scraper.py to understand its structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Modify the script to accept multiple base URLs",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update the scraping logic to iterate through all URLs",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Combine results from all URLs into a single output file",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Test the modified script",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

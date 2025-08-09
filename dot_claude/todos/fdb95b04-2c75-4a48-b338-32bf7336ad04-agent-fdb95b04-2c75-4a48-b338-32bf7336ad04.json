@@ -1,0 +1,32 @@
+[
+  {
+    "content": "ドキュメント選択機能の実装（既存ファイルから選択）",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "名前をつけて保存機能の実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "ドキュメント選択ダイアログUIの作成",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "保存ダイアログUIの作成",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "現在のドキュメント状態管理の実装",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

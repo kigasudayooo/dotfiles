@@ -1,0 +1,26 @@
+[
+  {
+    "content": "land_price_predictionのコードを調査し、スクレイピング・前処理・予測モデルの実行コマンドを整理",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "実行コマンドのドキュメントを作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "全処理を一括実行するPythonファイルを作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "重複・不要ファイルを特定し削除",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

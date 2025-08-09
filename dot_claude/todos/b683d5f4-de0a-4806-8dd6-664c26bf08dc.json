@@ -1,0 +1,26 @@
+[
+  {
+    "content": "実際のWebサイトからリアルタイムスクレイピング実行",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "real_web_scraping"
+  },
+  {
+    "content": "サンプルHTMLファイルを無視して新規データのみ使用",
+    "status": "pending",
+    "priority": "high",
+    "id": "ignore_sample_html"
+  },
+  {
+    "content": "SUUMOサイトから新鮮なデータを直接取得",
+    "status": "pending",
+    "priority": "high",
+    "id": "fetch_live_data"
+  },
+  {
+    "content": "取得した新鮮データで機械学習パイプライン実行",
+    "status": "pending",
+    "priority": "high",
+    "id": "run_fresh_pipeline"
+  }
+]

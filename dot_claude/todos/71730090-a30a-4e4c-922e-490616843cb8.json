@@ -1,0 +1,32 @@
+[
+  {
+    "content": "uvで仮想環境を作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "仮想環境をアクティベート",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "requirements.txtから依存関係をインストール",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "追加パッケージ（beautifulsoup4, scikit-learn等）をインストール",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "インストール確認テストを実行",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "adb logcatでクラッシュログを確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "レイアウトファイルの存在確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "CoordinatorLayout依存関係を追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "カラーリソースの問題を修正",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "修正後のアプリをテスト",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

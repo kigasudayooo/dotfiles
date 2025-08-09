@@ -1,0 +1,26 @@
+[
+  {
+    "content": "カスタムタグ機能削除",
+    "status": "completed",
+    "priority": "high",
+    "id": "15"
+  },
+  {
+    "content": "ジャンルタグに自由編集機能追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "16"
+  },
+  {
+    "content": "検索機能の動作確認・修正",
+    "status": "completed",
+    "priority": "medium",
+    "id": "17"
+  },
+  {
+    "content": "他機能との整合性確保",
+    "status": "completed",
+    "priority": "medium",
+    "id": "18"
+  }
+]

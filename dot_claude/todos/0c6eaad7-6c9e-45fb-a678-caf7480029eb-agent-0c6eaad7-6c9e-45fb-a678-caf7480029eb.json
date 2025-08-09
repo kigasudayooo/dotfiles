@@ -1,0 +1,32 @@
+[
+  {
+    "content": "時間設定の統一（45分→50分）",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "数理的思考力の採点基準を2点満点に変更",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "減点システムの具体例とガイドラインを追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "面接記録の具体例を追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "システム全体文書の更新",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

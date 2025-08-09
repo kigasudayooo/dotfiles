@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Android版の全機能テスト実行",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "テスト結果の検証と問題点の修正",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Web版でlocalStorageベースのデータベース実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Web版でAndroid版と同等の書籍CRUD機能実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Web版でメモ機能実装",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Web版で検索・フィルタリング機能実装",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Web版の重複エラー修正とビルドテスト",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Web版の統合テストと検証",
+    "status": "completed",
+    "priority": "low",
+    "id": "8"
+  }
+]

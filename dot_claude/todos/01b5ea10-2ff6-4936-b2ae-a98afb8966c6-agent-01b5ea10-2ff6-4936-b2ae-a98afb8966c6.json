@@ -1,0 +1,32 @@
+[
+  {
+    "content": "CLAUDE.md更新 - データベースバックアップ機能追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "CLAUDE.md更新 - iOS/Android対応状況記載",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "開発コマンド・実行手順の更新",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "技術構成・依存関係の更新",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "完成機能リスト・プロジェクト完了ステータス更新",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

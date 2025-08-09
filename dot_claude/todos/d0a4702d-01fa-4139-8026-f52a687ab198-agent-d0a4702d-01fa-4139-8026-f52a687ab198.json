@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Modify scraper to handle multiple URLs",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add configuration for all 6 regions",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Execute scraping for all regions",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Generate separate JSON/CSV for each region",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create combined CSV with all regions",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

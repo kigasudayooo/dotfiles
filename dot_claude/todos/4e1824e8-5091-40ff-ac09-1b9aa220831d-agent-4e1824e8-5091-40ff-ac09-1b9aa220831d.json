@@ -1,0 +1,32 @@
+[
+  {
+    "content": "iOSインストールマニュアル作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "前提条件・環境設定手順記載",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "シミュレータ・実機実行手順記載",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "トラブルシューティング情報追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "権限設定・セキュリティ情報追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "content": "プロジェクトの現在の状況を確設（ファイル構成、ビルド状況等）",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "コード生成実行（dart run build_runner build）",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "AddBookPage画面実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "BookDetailPage画面実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "SearchPage画面実装",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Flutterをインストールしてビルドをテスト",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "必要なプロバイダーの追加と修正",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "アプリの起動テストと基本機能確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Web版ではSQLiteが使えない問題を確認",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  }
+]

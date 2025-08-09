@@ -1,0 +1,50 @@
+[
+  {
+    "content": "SUUMOScraperの統合テストを完了させる（GREEN段階）",
+    "status": "completed",
+    "priority": "high",
+    "id": "complete_suumo_scraper_tests"
+  },
+  {
+    "content": "テストカバレッジを80%以上に改善（現在78%）",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix_coverage_issue"
+  },
+  {
+    "content": "実際のHTTPリクエスト機能を_fetch_page()メソッドに実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement_http_requests"
+  },
+  {
+    "content": "保存されたHTMLファイルでスクレイピング機能を検証",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate_scraping_functionality"
+  },
+  {
+    "content": "本格的なスクレイピングスクリプトを作成",
+    "status": "completed",
+    "priority": "medium",
+    "id": "create_production_scraper"
+  },
+  {
+    "content": "データ前処理モジュールをTDDで実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "create_data_preprocessing"
+  },
+  {
+    "content": "特徴量エンジニアリング機能を実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement_feature_engineering"
+  },
+  {
+    "content": "機械学習パイプラインの基盤を作成",
+    "status": "pending",
+    "priority": "medium",
+    "id": "create_ml_pipeline"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Check if url.txt exists and read the target URL",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Set up project structure (src/ and outputs/ directories)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Check and install selenium using uv",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create scraping script to extract facility info (name, address, description, URL)",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Test the scraping functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Improve scraper to get actual facility data instead of navigation links",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Investigate CGI traces in the target website",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Optimize scraper for complete data extraction from all areas",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Run complete scraping for all 6 area URLs",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  }
+]

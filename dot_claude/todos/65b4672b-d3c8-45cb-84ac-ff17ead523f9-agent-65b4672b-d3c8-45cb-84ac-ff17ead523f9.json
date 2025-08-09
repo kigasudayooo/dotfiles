@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Check current PyTorch configuration in pyproject.toml",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Verify uv environment and dependencies compatibility",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update PyTorch to Apple Silicon compatible version if needed",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Test environment setup on M1 Pro",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  }
+]

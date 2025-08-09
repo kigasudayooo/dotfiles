@@ -1,0 +1,32 @@
+[
+  {
+    "content": "取得データの詳細分析と欠損率調査",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "異常値除去処理の影響調査",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "前処理ロジックの最適化",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "改善された前処理でのモデル再訓練",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "新旧手法の精度比較と評価",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "5"
+  }
+]

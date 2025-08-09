@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Fix home page tab filtering by reading status",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-tab-filtering"
+  },
+  {
+    "content": "Implement working search functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "implement-search"
+  },
+  {
+    "content": "Update book providers for status filtering",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-providers"
+  },
+  {
+    "content": "Test tab and search functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-features"
+  }
+]

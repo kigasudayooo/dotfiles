@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create jalan scraper to get facility details (address, room count, bed count)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze jalan.net structure for Nagano prefecture",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Find direct hotel listing URLs for Nagano",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Improve hotel detail scraping to get address and room info",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Refine room count extraction from jalan pages",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Create full jalan scraping function for all Nagano areas",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Implement facility name fuzzy matching logic",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Merge scraped data from hotel association and jalan",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "テーマ切り替え用の状態管理プロバイダー作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "ライトテーマの色設定を追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "設定画面にテーマ切り替えスイッチを追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "main.dartでテーマ切り替え機能を実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "SharedPreferencesでテーマ設定を永続化",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

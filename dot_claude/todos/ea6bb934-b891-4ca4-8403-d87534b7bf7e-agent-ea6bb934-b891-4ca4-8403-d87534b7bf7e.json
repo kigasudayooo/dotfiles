@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Clippings内のバラバラのファイルを統合する必要があるか確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "othersディレクトリのファイルをbooksに統合済みであることを確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

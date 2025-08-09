@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix room count extraction from table structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Reduce sleep times by 80% for faster scraping",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Analyze existing CSV data from both scrapers",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Create jalan_merge.py to join datasets",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Test the merge script with sample data",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  }
+]

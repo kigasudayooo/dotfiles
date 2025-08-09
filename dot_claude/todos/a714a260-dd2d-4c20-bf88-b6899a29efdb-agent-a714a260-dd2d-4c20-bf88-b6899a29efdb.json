@@ -1,0 +1,20 @@
+[
+  {
+    "content": "ディレクトリ構造を確認し、Clippingsとbook_sorter.pyの存在を確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "book_sorter.pyの内容を確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "改良版書籍統合スクリプトを実行",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

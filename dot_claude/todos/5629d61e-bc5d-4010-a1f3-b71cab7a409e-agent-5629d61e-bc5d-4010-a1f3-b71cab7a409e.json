@@ -1,0 +1,26 @@
+[
+  {
+    "content": "現在のディレクトリ構造とdata/rawの内容を確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "notebookディレクトリを作成",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "data/rawのデータを分析",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "分析結果のmdファイルを作成",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

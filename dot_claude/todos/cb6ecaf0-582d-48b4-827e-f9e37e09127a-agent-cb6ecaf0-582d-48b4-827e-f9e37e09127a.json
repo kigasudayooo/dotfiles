@@ -1,0 +1,62 @@
+[
+  {
+    "content": "データの詳細分析（EDA）を実施",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "BFRB vs 非BFRBの分布とパターンを確認",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "評価関数（Binary F1 + Macro F1）を実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "基本特徴量エンジニアリングを実装",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "ベースラインモデルを構築",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "IMU vs 全センサーの性能比較",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Macro F1評価とマルチクラス分類を追加",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "高度な特徴量（統計・温度・ToF）を追加",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "分析結果を詳細なMarkdownレポートにまとめる",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "結果をgitにコミット・プッシュ",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  }
+]

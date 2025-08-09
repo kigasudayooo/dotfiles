@@ -1,0 +1,32 @@
+[
+  {
+    "content": "JSONインポート/エクスポート機能の実装完了",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Android版JSON機能の実装完了",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Web版JSON機能の実装完了",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "クロスプラットフォームデータ移行機能の実装完了",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "両プラットフォーム版でのビルド・動作確認",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

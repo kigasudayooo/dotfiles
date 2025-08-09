@@ -1,0 +1,32 @@
+[
+  {
+    "content": "ダークテーマ用カラーパレット設計",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "main.dartのテーマ設定をダークトーンに変更",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "全画面から絵文字を削除・テキスト置き換え",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "アプリバー・カード・ボタンのスタイル調整",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "アイコン・色合いの統一性確保",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Create CLI script for preprocessing and prediction from saved data",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add data loading functionality to handle different input formats",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update CLAUDE.md with new CLI command documentation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]
